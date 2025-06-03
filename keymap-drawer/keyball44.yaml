@@ -102,7 +102,7 @@ layers:
   - '*'
   - (
   - )
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - +
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -110,10 +110,10 @@ layers:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '-', s: _}
-  - {t: '=', s: +}
+  - Sft+.
   - {t: '[', s: '{'}
   - {t: ']', s: '}'}
-  - {t: '''', s: '"'}
+  - {t: \, s: '|'}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
@@ -122,10 +122,10 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - _
-  - +
-  - {t: '$$mdi:transfer$$', type: trans}
-  - {t: '$$mdi:transfer$$', type: trans}
-  - \
+  - {t: Sft+;, s: 'Sft+:'}
+  - <
+  - '>'
+  - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
