@@ -82,6 +82,11 @@
             bindings = <&mkp RCLK>;
             key-positions = <15 14>;
         };
+
+        LMClick {
+            bindings = <&mkp MCLK>;
+            key-positions = <16 15 14>;
+        };
     };
 
     keymap {
