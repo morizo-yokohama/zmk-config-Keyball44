@@ -65,7 +65,7 @@
 
         Tab {
             bindings = <&kp TAB>;
-            key-positions = <2 3>;
+            key-positions = <2 1>;
         };
 
         BTControl {
