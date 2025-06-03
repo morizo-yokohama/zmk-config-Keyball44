@@ -72,6 +72,16 @@
             bindings = <&mo 6>;
             key-positions = <38 42>;
         };
+
+        LRClick {
+            bindings = <&mkp RCLK>;
+            key-positions = <16 15>;
+        };
+
+        LLClick {
+            bindings = <&mkp LCLK>;
+            key-positions = <15 14>;
+        };
     };
 
     keymap {
