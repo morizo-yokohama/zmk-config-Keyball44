@@ -328,3 +328,5 @@ combos:
   k: $$mdi:mouse-left-click-outline$$
 - p: [15, 14]
   k: $$mdi:mouse-right-click-outline$$
+- p: [16, 15, 14]
+  k: $$mdi:mouse-scroll-wheel$$
