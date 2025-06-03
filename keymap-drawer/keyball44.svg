@@ -522,6 +522,14 @@ rect.held, rect.combo.held {
 <a href="#SNIPE">
 <text x="411" y="253" class="combo tap layer-activator">SNIPE</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="210" y="77" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="215" y="81" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="154" y="78" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="159" y="82" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 370)" class="layer-NUM">
@@ -765,6 +773,14 @@ rect.held, rect.combo.held {
 <a href="#SNIPE">
 <text x="411" y="253" class="combo tap layer-activator">SNIPE</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="210" y="77" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="215" y="81" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="154" y="78" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="159" y="82" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 740)" class="layer-SYM">
@@ -1013,6 +1029,14 @@ rect.held, rect.combo.held {
 <a href="#SNIPE">
 <text x="411" y="253" class="combo tap layer-activator">SNIPE</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="210" y="77" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="215" y="81" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="154" y="78" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="159" y="82" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1110)" class="layer-FUN">
@@ -1257,6 +1281,14 @@ rect.held, rect.combo.held {
 <a href="#SNIPE">
 <text x="411" y="253" class="combo tap layer-activator">SNIPE</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="210" y="77" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="215" y="81" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="154" y="78" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="159" y="82" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1480)" class="layer-MOUSE">
@@ -1511,6 +1543,14 @@ rect.held, rect.combo.held {
 <a href="#SNIPE">
 <text x="411" y="253" class="combo tap layer-activator">SNIPE</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="210" y="77" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="215" y="81" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="154" y="78" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="159" y="82" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 1850)" class="layer-SCROLL">
@@ -1755,6 +1795,14 @@ rect.held, rect.combo.held {
 <a href="#SNIPE">
 <text x="411" y="253" class="combo tap layer-activator">SNIPE</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="210" y="77" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="215" y="81" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="154" y="78" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="159" y="82" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
 </g>
 </g>
 <g transform="translate(40, 2220)" class="layer-SNIPE">
@@ -2004,6 +2052,14 @@ rect.held, rect.combo.held {
 <a href="#SNIPE">
 <text x="411" y="253" class="combo tap layer-activator">SNIPE</text>
 </a></g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="210" y="77" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-right-click-outline" xlink:href="#mdi:mouse-right-click-outline" x="215" y="81" height="18" width="18.0" class="combo tap glyph mdi:mouse-right-click-outline"/>
+</g>
+<g class="combo combopos-5">
+<rect rx="6" ry="6" x="154" y="78" width="28" height="26" class="combo"/>
+<use href="#mdi:mouse-left-click-outline" xlink:href="#mdi:mouse-left-click-outline" x="159" y="82" height="18" width="18.0" class="combo tap glyph mdi:mouse-left-click-outline"/>
+</g>
 </g>
 </g>
 </svg>
