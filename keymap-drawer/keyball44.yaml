@@ -13,7 +13,7 @@ layers:
   - O
   - P
   - {t: '$$mdi:backspace$$', type: backspace}
-  - BT CLR ALL
+  - $$mdi:apple-keyboard-control$$
   - A
   - S
   - D
@@ -42,8 +42,8 @@ layers:
   - {t: '$$mdi:keyboard-esc$$', h: SNIPE}
   - {t: '$$mdi:keyboard-space$$', h: MOUSE}
   - {t: '$$mdi:keyboard-tab$$', h: SCROLL}
-  - {t: '$$mdi:keyboard-return$$', type: enter}
-  - {t: '$$mdi:backspace$$', h: SYM}
+  - {t: '$$mdi:backspace$$', type: backspace}
+  - {t: '$$mdi:keyboard-return$$', h: SYM}
   - C
   NUM:
   - {t: '$$mdi:minus-circle-outline$$', type: none}
@@ -315,3 +315,10 @@ layers:
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
   - {t: '$$mdi:transfer$$', type: trans}
+combos:
+- p: [19, 20]
+  k: $$mdi:mouse-left-click-outline$$
+- p: [20, 21]
+  k: $$mdi:mouse-right-click-outline$$
+- p: [2, 3]
+  k: $$mdi:keyboard-tab$$
