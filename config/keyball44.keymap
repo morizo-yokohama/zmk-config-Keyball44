@@ -74,12 +74,12 @@
         };
 
         LRClick {
-            bindings = <&mkp RCLK>;
+            bindings = <&mkp LCLK>;
             key-positions = <16 15>;
         };
 
         LLClick {
-            bindings = <&mkp LCLK>;
+            bindings = <&mkp RCLK>;
             key-positions = <15 14>;
         };
     };
