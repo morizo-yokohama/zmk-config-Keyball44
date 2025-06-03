@@ -320,7 +320,7 @@ combos:
   k: $$mdi:mouse-left-click-outline$$
 - p: [20, 21]
   k: $$mdi:mouse-right-click-outline$$
-- p: [2, 3]
+- p: [2, 1]
   k: $$mdi:keyboard-tab$$
 - p: [38, 42]
   k: SNIPE
